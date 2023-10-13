@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Arias</h1>
 <h3 align="center">A passionate full-stack developer from Boston, MA</h3>
 
-- 🔭 I’m currently working on A Super Secret Project **Other Side**
+- 🔭 I’m currently working on A Super Secret Project codenamed **Other Side**
 
 - 👨‍💻 All of my projects are available at this [link](https://michaelariasdls.github.io/hostedport/)
 
