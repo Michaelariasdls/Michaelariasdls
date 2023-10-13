@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at this [link](https://michaelariasdls.github.io/hostedport/)
 
-- 📫 How to reach me Via Email **Michaelariasdls@gmail.com**
+- 📫 How to reach me Via [Email] (**Michaelariasdls@gmail.com**)
 
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1D6rLpin9fQtEPkAd8OpLxWWmhjyeGx-Y/edit)
 
