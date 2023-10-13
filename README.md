@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on A Super Secret Project codenamed **Other Side**
 
-- 👨‍💻 All of my projects are available at this [link](https://michaelariasdls.github.io/hostedport/)
+- 👨‍💻 All of my projects are available on this [link](https://michaelariasdls.github.io/hostedport/)
 
-- 📫 How to reach me Via [email](mailto:Michaelariasdls@gmail.com)
+- 📫 Reach me Via [email](mailto:Michaelariasdls@gmail.com)
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1D6rLpin9fQtEPkAd8OpLxWWmhjyeGx-Y/edit)
+- 📄 My Resume [here](https://docs.google.com/document/d/1D6rLpin9fQtEPkAd8OpLxWWmhjyeGx-Y/edit)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I can cook minute rice in 56 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
