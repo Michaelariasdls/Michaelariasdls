@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on A Super Secret Project **Other Side**
 
-- 👨‍💻 All of my projects are available at this link [https://michaelariasdls.github.io/hostedport/](https://michaelariasdls.github.io/hostedport/)
+- 👨‍💻 All of my projects are available at this [link](https://michaelariasdls.github.io/hostedport/)
 
 - 📫 How to reach me Via Email **Michaelariasdls@gmail.com**
 
