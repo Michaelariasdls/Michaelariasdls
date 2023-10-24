@@ -2,8 +2,11 @@
 <h3 align="center">A passionate full-stack developer from Boston, MA</h3>
 
 ### What im working on
-I’m working on functionality in full-stack applications
+I’m working on learning Node.Js in full-stack applications
 Currently learning Node.js, React.js & MongoDB
+
+### Something that excites me
+Ask me what project's im passionate about
 
 ### Skills 
 
