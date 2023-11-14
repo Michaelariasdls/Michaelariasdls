@@ -26,4 +26,4 @@ Ask me what project's im passionate about
 
 📄 My Resume [here](https://docs.google.com/document/d/1D6rLpin9fQtEPkAd8OpLxWWmhjyeGx-Y/edit)  
 
-👨‍💻 All of my projects are available on my [Portfolio](https://michaelariasdls.github.io/hostedport/)
+👨‍💻 All of my projects are available on my [Portfolio](https://michaelariasdls.github.io/Michaelsportfolio/)
